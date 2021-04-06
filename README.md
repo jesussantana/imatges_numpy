@@ -1,4 +1,4 @@
-[# IT Academy - Data Science amb Python
+# IT Academy - Data Science amb Python
 ## Tasca 2-A: Estructura de una Matriu
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
